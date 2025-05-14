@@ -1,0 +1,13 @@
+.\main.o: main.c
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: TM4C123GH6PM.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\main.o: uart1.h
+.\main.o: gps.h
+.\main.o: comp.h
+.\main.o: lcd.h
+.\main.o: timer.h
+.\main.o: gpio.h
+.\main.o: uart0.h
+.\main.o: timer0.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\String.h
