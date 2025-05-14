@@ -1,0 +1,33 @@
+# Ignore build output files
+*.axf
+*.hex
+*.elf
+*.bin
+*.lst
+*.o
+*.d
+*.crf
+*.map
+*.bak
+*.dep
+*.iex
+*.htm
+*.log
+*.tmp
+*.sct
+
+# Ignore Keil specific auto-generated folders
+Objects/
+Listings/
+DebugConfig/
+
+# Ignore temporary files
+*.uvguix.*
+*.uvgui.*
+
+# Ignore backup files
+*~
+*.bak
+
+# Optional: Visual Studio Code workspace settings (if using VSCode for Git)
+.vscode/
